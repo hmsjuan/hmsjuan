@@ -1,5 +1,5 @@
 <h1 align="center">Hola, yo soy HMSJUAN</h1>
-<h3 align="center">Un Apasionado Aprendiz backend developer de República Dominicana</h3>
+<h3 align="center">Un Apasionado principiante de backend developer de República Dominicana</h3>
 
 - 🔭 Actualmente estoy trabajando en [el challenger de Alura Conversor de Monedas](https://github.com/hmsjuan/Conversor-de-Monedas)
 
